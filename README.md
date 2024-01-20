@@ -5,7 +5,7 @@ sele-test.py 是主程序 currencyinfo.py包含货币信息。实现功能：
 输入：日期、货币代号
 输出：该日期该货币的“现汇卖出价”
 
-运行方式：进入test目录，打开终端输入 py sele-test.py 日期 货币
+运行方式：进入exam目录，打开终端输入 py sele-test.py 日期 货币
 
 示例：py sele-test.py 2022102 USD
 输出：现汇卖出价: 713.67
